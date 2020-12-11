@@ -63,7 +63,7 @@ h1,h2,h3{
     padding-right: 0px;
 }
 .header-hero{
-    background: url('/img/header-hero-bg.png') repeat 0 0;
+    background-image: url('/img/header-hero-bg.png');
     height: 730px;
     background-position: center;
     display: flex;
